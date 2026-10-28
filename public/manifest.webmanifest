@@ -1,0 +1,10 @@
+{
+  "name": "Rune Pop - Elemental Shooter",
+  "short_name": "Rune Pop",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#140a24",
+  "theme_color": "#140a24",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
